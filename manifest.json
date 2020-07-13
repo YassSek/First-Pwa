@@ -1,0 +1,8 @@
+{
+    "name": "F-PWA",
+    "short_name":"FPWA",
+    "start_url":".",
+    "background_color":"#ffde84",
+    "theme_color": "#FC2D00",
+    "display":"standalone"
+}
